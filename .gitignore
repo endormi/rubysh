@@ -1,0 +1,11 @@
+*.gem
+*.rbc
+/.bundle/
+*.lock
+.ruby-version
+.ruby-gemset
+
+*~
+\#*\#
+auto-save-list
+.\#*
