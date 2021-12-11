@@ -10,4 +10,4 @@ Run:
 ruby rubysh.rb
 ```
 
-This is similar type of project ([RubyPy](https://github.com/endormi/rubypy)).
+This is a similar type of project ([RubyPy](https://github.com/endormi/rubypy)).
