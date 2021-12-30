@@ -4,6 +4,12 @@ Just a small script showing how to run `Bash` inside `Ruby` (multiple options).
 
 **NOTE:** `open3` is most likely not needed to install, but if it is then `gem install open3`.
 
+Clone repository:
+
+```
+git clone https://github.com/endormi/rubysh.git
+```
+
 Run:
 
 ```
